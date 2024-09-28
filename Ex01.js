@@ -1,4 +1,9 @@
-/* write a javascript program to check two numbers and return true if one of the number is 100 or if the sum of the two numbers is 100*/
+/* 
+Question 1
+
+write a javascript program to check two numbers and return true if one of the number is 100 or if the sum of the two numbers is 100
+
+*/
 
 function Tocheck(a, b) {
     if(a===100){

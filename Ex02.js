@@ -1,4 +1,6 @@
 /*
+Question 2
+
 write a javascript program to get teh extention of a filename 
 for e.g. 
 input = index.html
